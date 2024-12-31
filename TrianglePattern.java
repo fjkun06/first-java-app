@@ -36,6 +36,7 @@ public class TrianglePattern {
     int numOfTimes = 10;
     int halfLife = numOfTimes / 2;
     System.out.println("\n");
+    colorPrinter("red", "Psychological Table\n\n");
       
     for (int i = 0; i < numOfTimes; i++) {
     
