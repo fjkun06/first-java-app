@@ -1,2 +1,2 @@
 # first-java-app
-My first Java application.
+This is my first Java application.
