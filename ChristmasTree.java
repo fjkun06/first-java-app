@@ -18,6 +18,9 @@ public class ChristmasTree {
     int numberOfTimes = 9;
     int halfLife = numberOfTimes / 2;
 
+    colorPrinter("red", "\n\n\tChristmas ");
+    colorPrinter("red", "Tree\n\n");
+
 
     for (int i = 0; i < numberOfTimes; i++) {
       if (i < 5 && i==0) {
